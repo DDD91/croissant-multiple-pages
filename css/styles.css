@@ -1,0 +1,23 @@
+body {
+    background: goldenrod;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.croissant-photo {
+    display: block;
+    border-radius: 10px;
+    max-width: 100%;
+    margin: 30px auto;
+
+}
